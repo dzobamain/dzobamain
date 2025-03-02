@@ -46,17 +46,25 @@ I am currently learning SQL, PostgreSQL, and programming languages (if needed in
     <tr>
       <td>
         <a href="https://github.com/dzobamain/github-readme-stats">
-          <img height=200 src="https://github-readme-stats.vercel.app/api?username=dzobamain&theme=transparent&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+          <img height=200 src="https://github-readme-stats.vercel.app/api?username=dzobamain&theme=nord&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/dzobamain/github-readme-stats">
-          <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=dzobamain&theme=transparent&layout=compact&langs_count=8&card_width=320" alt="Top Languages"/>
+          <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=dzobamain&theme=nord&layout=compact&langs_count=8&card_width=320" alt="Top Languages"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzobamain&theme=github" alt="Ashutosh's github activity graph">
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 ## About me:
 I love writing code and creating cool things. I work with various programming languages and tools, and I'm constantly learning new things.
