@@ -58,7 +58,7 @@ I am currently learning SQL, PostgreSQL, and programming languages (if needed in
     <tr>
       <td colspan="2">
         <a href="https://github.com/Dzobamain">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzobamain&theme=github" alt="Ashutosh's github activity graph">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzobamain&theme=react" alt="Ashutosh's github activity graph">
         </a>
       </td>
     </tr>
