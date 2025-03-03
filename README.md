@@ -45,19 +45,19 @@ I am currently learning SQL, PostgreSQL, and programming languages (if needed in
   <table>
     <tr>
       <td>
-        <a href="https://github.com/dzobamain/github-readme-stats">
+        <a href="https://github.com/Dzobamain?tab=repositories">
           <img height=200 src="https://github-readme-stats.vercel.app/api?username=dzobamain&theme=nord&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/dzobamain/github-readme-stats">
+        <a href="https://github.com/Dzobamain?tab=repositories">
           <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=dzobamain&theme=nord&layout=compact&langs_count=8&card_width=320" alt="Top Languages"/>
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <a href="https://github.com/Dzobamain">
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzobamain&theme=github" alt="Ashutosh's github activity graph">
         </a>
       </td>
