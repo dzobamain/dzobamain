@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profileBanner.png" alt="Profile banner" />
+</p>
+
 ## Languages and Tools:
 I can already work with:
 
