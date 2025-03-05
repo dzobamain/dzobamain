@@ -74,15 +74,9 @@ I am currently learning SQL, PostgreSQL, and programming languages (if needed in
   </table>
 </div>
 
+
+
 ## About me:
 
-<div style="display: flex">
-    <div style="width: 50%">
-        <p>I am truly passionate about writing code and building amazing things that not only solve problems but also spark creativity. I work with a variety of programming languages, frameworks, and tools, always eager to explore new technologies and improve my skills. My journey in coding is a continuous learning experience, and I take pride in keeping up with the latest trends and best practices in the tech world. Each project I work on is an opportunity to grow and experiment with innovative solutions.</p>
-    </div>
-    <div style="width: 50%">
-        <a href="https://github.com/Dzobamain?tab=repositories">
-            <img src="https://streak-stats.demolab.com/?user=dzobamain&theme=nord" alt="GitHub Streak Stats">
-        </a>
-    </div>
-</div>
+I love writing code and creating cool things. I work with various programming languages and tools, and I'm constantly learning new things
+
