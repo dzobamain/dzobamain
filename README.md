@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profileBanner.png" alt="Profile banner" />
+  <img src="profileBanner.jpg" alt="Profile banner" />
 </p>
 
 ## Languages and Tools:
@@ -7,19 +7,19 @@ I can already work with:
 
 <div align="center">
   <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++">
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=sharp&logoColor=99CC00" alt="C#">
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
+    <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
   </a>
   <a href="https://scratch.mit.edu/">
-    <img src="https://img.shields.io/badge/Scratch-F7941E?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch">
+    <img src="https://img.shields.io/badge/Scratch-F7941E?style=for-the-badge&logo=scratch&logoColor=4D97FF" alt="Scratch">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -30,14 +30,20 @@ I can already work with:
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
+  <a href="https://dotnet.microsoft.com/en-us/">
+    <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net">
+  </a>
   <a href="https://www.apple.com/macos/">
     <img src="https://img.shields.io/badge/MacOS-555555?style=for-the-badge&logo=macos&logoColor=white" alt="MacOS">
   </a>
   <a href="https://www.microsoft.com/en-us/windows">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=gitforwindows&logoColor=#80B3FF" alt="Windows">
   </a>
   <a href="https://en.wikipedia.org/wiki/Command-line_interface">
-    <img src="https://img.shields.io/badge/console-black?style=for-the-badge&logo=iterm2&logoColor=#000000" alt="Console">
+    <img src="https://img.shields.io/badge/console-black?style=for-the-badge&logo=iterm2&logoColor=white" alt="Console">
+  </a>
+  <a href="https://www.blender.org/">
+    <img src="https://img.shields.io/badge/blender-white?style=for-the-badge&logo=blender&logoColor=E87D0D" alt="Blender">
   </a>
 </div>
 
@@ -47,7 +53,6 @@ I am currently learning SQL, PostgreSQL, and programming languages (if needed in
 
 <div align="center">
   <table>
-    <tr>
       <td>
         <a href="https://github.com/Dzobamain?tab=repositories">
           <img height=200 src="https://github-readme-stats.vercel.app/api?username=dzobamain&theme=nord&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
@@ -62,13 +67,22 @@ I am currently learning SQL, PostgreSQL, and programming languages (if needed in
     <tr>
       <td colspan="2">
         <a href="https://github.com/Dzobamain">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzobamain&theme=react" alt="Ashutosh's github activity graph">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzobamain&theme=nord" alt="Dzobamain's GitHub Activity Graph">
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-
 ## About me:
-I love writing code and creating cool things. I work with various programming languages and tools, and I'm constantly learning new things.
+
+<div style="display: flex">
+    <div style="width: 50%">
+        <p>I am truly passionate about writing code and building amazing things that not only solve problems but also spark creativity. I work with a variety of programming languages, frameworks, and tools, always eager to explore new technologies and improve my skills. My journey in coding is a continuous learning experience, and I take pride in keeping up with the latest trends and best practices in the tech world. Each project I work on is an opportunity to grow and experiment with innovative solutions.</p>
+    </div>
+    <div style="width: 50%">
+        <a href="https://github.com/Dzobamain?tab=repositories">
+            <img src="https://streak-stats.demolab.com/?user=dzobamain&theme=nord" alt="GitHub Streak Stats">
+        </a>
+    </div>
+</div>
