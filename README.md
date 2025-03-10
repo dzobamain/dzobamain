@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="profileBanner.jpg" alt="Profile banner" />
-</p>
-
 ## Languages and Tools:
 I can already work with:
 
 <div align="center">
   <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++">
+    <img src="https://img.shields.io/badge/C++-E1587E?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++">
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
