@@ -70,6 +70,18 @@ I am currently learning SQL, PostgreSQL, and programming languages (if needed in
   </table>
 </div>
 
+## All projects (public):
+
+- [tg-bot-for-lessons-followed-by-tests-py](https://github.com/Dzobamain/tg-bot-for-lessons-followed-by-tests-py)
+- [reading-txt-files-in-winForms](https://github.com/Dzobamain/reading-txt-files-in-winForms)
+- [youtube-comment-analyzer-gpt](https://github.com/Dzobamain/youtube-comment-analyzer-gpt)
+- [console-raycasting-cpp](https://github.com/Dzobamain/console-raycasting-cpp)
+- [autocliker-for-macOS-cpp](https://github.com/Dzobamain/autocliker-for-macOS-cpp)
+- [counting-characters-words-and-lines-py](https://github.com/Dzobamain/counting-characters-words-and-lines-py)
+- [console-life-game-c](https://github.com/Dzobamain/console-life-game-c)
+- [char-replacer-py](https://github.com/Dzobamain/char-replacer-py)
+- [geometryLibCpp](https://github.com/Dzobamain/geometryLibCpp)
+- [browser-extension-comment-analyzer-gpt](https://github.com/Dzobamain/browser-extension-comment-analyzer-gpt)
 
 
 ## About me:
