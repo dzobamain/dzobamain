@@ -81,4 +81,4 @@ I am currently learning SQL, PostgreSQL, and programming languages (if needed in
 - [char-replacer-py](https://github.com/Dzobamain/char-replacer-py)
 - [geometryLibCpp](https://github.com/Dzobamain/geometryLibCpp)
 - [browser-extension-comment-analyzer-gpt](https://github.com/Dzobamain/browser-extension-comment-analyzer-gpt)
-
+- [shell-script-generator-ai](https://github.com/Dzobamain/shell-script-generator-ai)
