@@ -36,7 +36,7 @@ I can already work with:
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=gitforwindows&logoColor=#80B3FF" alt="Windows">
   </a>
   <a href="https://en.wikipedia.org/wiki/Command-line_interface">
-    <img src="https://img.shields.io/badge/console-black?style=for-the-badge&logo=iterm2&logoColor=white" alt="Console">
+    <img src="https://img.shields.io/badge/%24bash-black?style=for-the-badge&logo=iterm2&logoColor=white" alt="Console">
   </a>
   <a href="https://www.blender.org/">
     <img src="https://img.shields.io/badge/blender-white?style=for-the-badge&logo=blender&logoColor=E87D0D" alt="Blender">
