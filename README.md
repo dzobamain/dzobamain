@@ -3,7 +3,7 @@ I can already work with:
 
 <div align="center">
   <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-E1587E?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++">
+    <img src="https://img.shields.io/badge/C++-4CA1DA?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++">
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
@@ -35,8 +35,11 @@ I can already work with:
   <a href="https://www.microsoft.com/en-us/windows">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=gitforwindows&logoColor=#80B3FF" alt="Windows">
   </a>
-  <a href="https://en.wikipedia.org/wiki/Command-line_interface">
-    <img src="https://img.shields.io/badge/%24bash-black?style=for-the-badge&logo=iterm2&logoColor=white" alt="Console">
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/%24bash-black?style=for-the-badge&logo=gnubash&logoColor=#4EAA25" alt="bash">
+  </a>
+  <a href="https://www.cmd.to/">
+    <img src="https://img.shields.io/badge/CMD-black?style=for-the-badge&logo=iterm2&logoColor=75D888" alt="cmd">
   </a>
   <a href="https://www.blender.org/">
     <img src="https://img.shields.io/badge/blender-white?style=for-the-badge&logo=blender&logoColor=E87D0D" alt="Blender">
