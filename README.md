@@ -75,6 +75,7 @@ I am currently learning SQL, PostgreSQL, and programming languages (if needed in
 
 ## All projects (public)
 
+- [SketchBoard-winForms](https://github.com/Dzobamain/SketchBoard-winForms)
 - [ProductManagement-winForms](https://github.com/Dzobamain/ProductManagement-winForms)
 - [TestSystem-winForms](https://github.com/Dzobamain/TestSystem-winForms)
 - [shell-script-generator-ai](https://github.com/Dzobamain/shell-script-generator-ai)
