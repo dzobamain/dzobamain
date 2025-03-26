@@ -29,12 +29,6 @@ I can already work with:
   <a href="https://dotnet.microsoft.com/en-us/">
     <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net">
   </a>
-  <a href="https://www.apple.com/macos/">
-    <img src="https://img.shields.io/badge/MacOS-555555?style=for-the-badge&logo=macos&logoColor=white" alt="MacOS">
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=gitforwindows&logoColor=#80B3FF" alt="Windows">
-  </a>
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/%24bash-black?style=for-the-badge&logo=gnubash&logoColor=#4EAA25" alt="bash">
   </a>
@@ -45,8 +39,6 @@ I can already work with:
     <img src="https://img.shields.io/badge/blender-white?style=for-the-badge&logo=blender&logoColor=E87D0D" alt="Blender">
   </a>
 </div>
-
-I am currently learning SQL, PostgreSQL, and programming languages (if needed in projects). I am also working with different technologies.
 
 ## Statistics of this profile:
 
