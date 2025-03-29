@@ -1,5 +1,4 @@
 ## Languages and Tools:
-I can already work with:
 
 <div align="center">
   <a href="https://isocpp.org/">
@@ -28,6 +27,9 @@ I can already work with:
   </a>
   <a href="https://dotnet.microsoft.com/en-us/">
     <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net">
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/">
+    <img src="https://img.shields.io/badge/winForms-1E4B85?style=for-the-badge" alt="winForms">
   </a>
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/%24bash-black?style=for-the-badge&logo=gnubash&logoColor=#4EAA25" alt="bash">
