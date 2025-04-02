@@ -28,8 +28,11 @@
   <a href="https://dotnet.microsoft.com/en-us/">
     <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net">
   </a>
-  <a href="https://dotnet.microsoft.com/en-us/">
+  <a href="https://learn.microsoft.com/de-de/dotnet/desktop/winforms/">
     <img src="https://img.shields.io/badge/winForms-1E4B85?style=for-the-badge" alt="winForms">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/">
+    <img src="https://img.shields.io/badge/WPF-0078D7?style=for-the-badge" alt="WPF">
   </a>
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/%24bash-black?style=for-the-badge&logo=gnubash&logoColor=#4EAA25" alt="bash">
@@ -41,6 +44,7 @@
     <img src="https://img.shields.io/badge/blender-white?style=for-the-badge&logo=blender&logoColor=E87D0D" alt="Blender">
   </a>
 </div>
+
 
 ## Statistics of this profile:
 
