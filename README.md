@@ -50,6 +50,13 @@
 
 <div align="center">
   <table>
+      <tr>
+      <td colspan="2">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=dzobamain&theme=nord" alt="GitHub trophies" />
+        </a>
+      </td>
+    </tr>
       <td>
         <a href="https://github.com/Dzobamain?tab=repositories">
           <img height=200 src="https://github-readme-stats.vercel.app/api?username=dzobamain&theme=nord&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
@@ -65,13 +72,6 @@
       <td colspan="2">
         <a href="https://github.com/Dzobamain">
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzobamain&theme=nord" alt="Dzobamain's GitHub Activity Graph">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=dzobamain&theme=nord" alt="GitHub trophies" />
         </a>
       </td>
     </tr>
