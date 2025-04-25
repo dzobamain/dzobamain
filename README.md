@@ -50,27 +50,27 @@
 
 <div align="center">
   <table>
-      <tr>
+    <tr>
       <td colspan="2">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=dzobamain&theme=nord" alt="GitHub trophies" />
+        <a href="https://github.com/dzobamain">
+          <img src="https://github-profile-trophy.vercel.app/?username=dzobamain&theme=nord&margin-w=5" alt="GitHub trophies" />
         </a>
       </td>
     </tr>
       <td>
-        <a href="https://github.com/Dzobamain?tab=repositories">
-          <img height=200 src="https://github-readme-stats.vercel.app/api?username=dzobamain&theme=nord&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+        <a height=200 href="https://github.com/dzobamain?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api?username=dzobamain&theme=nord&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Dzobamain?tab=repositories">
-          <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=dzobamain&theme=nord&layout=compact&langs_count=8&card_width=320" alt="Top Languages"/>
+        <a height=200 href="https://github.com/dzobamain?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzobamain&theme=nord&layout=compact&langs_count=8&card_width=320" alt="Top Languages"/>
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <a href="https://github.com/Dzobamain">
+        <a href="https://github.com/dzobamain">
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzobamain&theme=nord" alt="Dzobamain's GitHub Activity Graph">
         </a>
       </td>
