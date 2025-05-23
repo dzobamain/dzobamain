@@ -34,6 +34,9 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/">
     <img src="https://img.shields.io/badge/WPF-0078D7?style=for-the-badge" alt="WPF">
   </a>
+  <a href="https://www.blender.org/">
+    <img src="https://img.shields.io/badge/QT-white?style=for-the-badge&logo=qt&logoColor=#6CDB8D" alt="QT">
+  </a>
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/%24bash-black?style=for-the-badge&logo=gnubash&logoColor=#4EAA25" alt="bash">
   </a>
