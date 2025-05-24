@@ -16,6 +16,11 @@
   <a href="https://scratch.mit.edu/">
     <img src="https://img.shields.io/badge/Scratch-F7941E?style=for-the-badge&logo=scratch&logoColor=4D97FF" alt="Scratch">
   </a>
+  <!--
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/cmake-008080?style=for-the-badge&logo=cmake&logoColor=064F8C" alt="cmake">
+  </a>
+  -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   </a>
@@ -34,9 +39,11 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/">
     <img src="https://img.shields.io/badge/WPF-0078D7?style=for-the-badge" alt="WPF">
   </a>
+  <!--
   <a href="https://www.blender.org/">
-    <img src="https://img.shields.io/badge/QT-white?style=for-the-badge&logo=qt&logoColor=#6CDB8D" alt="QT">
+    <img src="https://img.shields.io/badge/QT-D9D9D9?style=for-the-badge&logo=qt&logoColor=#6CDB8D" alt="QT">
   </a>
+  -->
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/%24bash-black?style=for-the-badge&logo=gnubash&logoColor=#4EAA25" alt="bash">
   </a>
@@ -44,7 +51,7 @@
     <img src="https://img.shields.io/badge/CMD-black?style=for-the-badge&logo=iterm2&logoColor=75D888" alt="cmd">
   </a>
   <a href="https://www.blender.org/">
-    <img src="https://img.shields.io/badge/blender-white?style=for-the-badge&logo=blender&logoColor=E87D0D" alt="Blender">
+    <img src="https://img.shields.io/badge/blender-F0F0F0?style=for-the-badge&logo=blender&logoColor=E87D0D" alt="Blender">
   </a>
 </div>
 
