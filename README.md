@@ -66,7 +66,7 @@
     <tr>
       <td colspan="2">
         <a href="https://github.com/dzobamain">
-          <img src="https://github-profile-trophy.vercel.app/?username=dzobamain&theme=nord&margin-w=5" alt="GitHub trophies" />
+          <img src="https://github-profile-trophy.vercel.app/?username=dzobamain&theme=nord&margin-w=5&row=1" alt="GitHub trophies" style="width: 100%; max-width: 606px;" /> 
         </a>
       </td>
     </tr>
