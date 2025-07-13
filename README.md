@@ -94,6 +94,11 @@
   </table>
 </div>
 
-<div align="center">
+<p align="center">
+  <a href="mailto:dzoba.main@gmail.com">
+    <img src="https://img.shields.io/badge/Написати%20мені-3498db?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
+</p>
+
   
 </div>
