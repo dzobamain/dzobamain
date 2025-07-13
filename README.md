@@ -96,9 +96,8 @@
 
 <p align="center">
   <a href="mailto:dzoba.main@gmail.com">
-    <img src="https://img.shields.io/badge/Написати%20мені-3498db?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+    <img src="https://img.shields.io/badge/Email%20Me-3498db?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me">
   </a>
 </p>
 
-  
 </div>
