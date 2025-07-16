@@ -50,9 +50,11 @@
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/%24bash-black?style=for-the-badge&logo=gnubash&logoColor=#4EAA25" alt="bash">
   </a>
+  <!--
   <a href="https://www.cmd.to/">
     <img src="https://img.shields.io/badge/CMD-black?style=for-the-badge&logo=iterm2&logoColor=75D888" alt="cmd">
   </a>
+  -->
   <a href="https://www.blender.org/">
     <img src="https://img.shields.io/badge/blender-F0F0F0?style=for-the-badge&logo=blender&logoColor=E87D0D" alt="Blender">
   </a>
