@@ -58,9 +58,11 @@
   <a href="https://www.blender.org/">
     <img src="https://img.shields.io/badge/blender-F0F0F0?style=for-the-badge&logo=blender&logoColor=E87D0D" alt="Blender">
   </a>
+  <!--
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17">
     <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL Docs">
   </a>
+  -->
 </div>
 
 
