@@ -27,9 +27,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
   </a>
+  <!--
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   </a>
+  -->
   <a href="https://dotnet.microsoft.com/en-us/">
     <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net">
   </a>
@@ -39,6 +41,11 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/">
     <img src="https://img.shields.io/badge/WPF-0078D7?style=for-the-badge" alt="WPF">
   </a>
+  <!-- 
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/docker-315FDF?style=for-the-badge&logo=docker" alt="Docker">
+  </a>
+  -->
   <!--
   <a href="https://www.blender.org/">
     <img src="https://img.shields.io/badge/QT-D9D9D9?style=for-the-badge&logo=qt&logoColor=#6CDB8D" alt="QT">
