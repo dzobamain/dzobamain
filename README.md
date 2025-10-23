@@ -1,3 +1,4 @@
+<!--
 ## Languages and Tools:
 
 <div align="center">
@@ -16,22 +17,18 @@
   <a href="https://scratch.mit.edu/">
     <img src="https://img.shields.io/badge/Scratch-F7941E?style=for-the-badge&logo=scratch&logoColor=4D97FF" alt="Scratch">
   </a>
-  <!--
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/cmake-008080?style=for-the-badge&logo=cmake&logoColor=064F8C" alt="cmake">
   </a>
-  -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
   </a>
-  <!--
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   </a>
-  -->
   <a href="https://dotnet.microsoft.com/en-us/">
     <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net">
   </a>
@@ -50,7 +47,6 @@
   <a href="https://www.blender.org/">
     <img src="https://img.shields.io/badge/QT-D9D9D9?style=for-the-badge&logo=qt&logoColor=#6CDB8D" alt="QT">
   </a>
-  -->
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/%24bash-black?style=for-the-badge&logo=gnubash&logoColor=#4EAA25" alt="bash">
   </a>
@@ -58,7 +54,6 @@
   <a href="https://www.cmd.to/">
     <img src="https://img.shields.io/badge/CMD-black?style=for-the-badge&logo=iterm2&logoColor=75D888" alt="cmd">
   </a>
-  -->
   <a href="https://www.blender.org/">
     <img src="https://img.shields.io/badge/blender-F0F0F0?style=for-the-badge&logo=blender&logoColor=E87D0D" alt="Blender">
   </a>
@@ -66,7 +61,6 @@
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17">
     <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL Docs">
   </a>
-  -->
 </div>
 
 
@@ -101,11 +95,10 @@
     </tr>
   </table>
 </div>
+-->
 
 <p align="center">
   <a href="mailto:dzoba.main@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-3498db?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me">
   </a>
 </p>
-
-</div>
