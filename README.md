@@ -23,15 +23,15 @@ Interested in software engineering, security, and system-level programming.
 
 ## 🧩 Projects
 
-- **Sursy** — система для перевірки достовірності новин та джерел *(in development)*  
-- **cross-device-data-transfer** — C++ сервіс для обміну даними між пристроями через сервер *(in development)*  
+- **Sursy** — a system for verifying the authenticity of news and sources *(in development)*  
+- **cross-device-data-transfer** — a C++ service for transferring data between devices via a server *(in development)*
 
 ---
 
 ## 📈 GitHub Overview
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzobamain&theme=nord&show_icons=true&hide_rank=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzobamain&theme=nord&layout=compact&langs_count=8" height="160">
+<div style="display: flex; width: 100%; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dzobamain&theme=nord&show_icons=true&hide_rank=true" style="flex: 1; max-height: 300px; width: 100%; object-fit: contain;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzobamain&theme=nord&layout=compact&langs_count=8" style="flex: 1; max-height: 300px; width: 100%; object-fit: contain;">
 </div>
 
 ---
