@@ -26,8 +26,6 @@ Interested in software engineering, security, and system-level programming.
 - **Sursy** — a system for verifying the authenticity of news and sources *(in development)*  
 - **cross-device-data-transfer** — a C++ service for transferring data between devices via a server *(in development)*
 
-## 📈 GitHub Overview
-
 ---
 
 ## 📈 GitHub Overview
