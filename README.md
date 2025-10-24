@@ -29,10 +29,21 @@ Interested in software engineering, security, and system-level programming.
 ---
 
 ## 📈 GitHub Overview
-<div style="display: flex; width: 100%; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzobamain&theme=nord&show_icons=true&hide_rank=true" style="flex: 1; max-height: 300px; width: 100%; object-fit: contain;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzobamain&theme=nord&layout=compact&langs_count=8" style="flex: 1; max-height: 300px; width: 100%; object-fit: contain;">
-</div>
+---
+
+## 📈 GitHub Overview
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=dzobamain&theme=nord&show_icons=true&hide_rank=true" style="width: 100%; max-height: 300px; object-fit: contain;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzobamain&theme=nord&layout=compact&langs_count=8" style="width: 100%; max-height: 300px; object-fit: contain;">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
