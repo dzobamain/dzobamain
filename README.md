@@ -29,11 +29,12 @@ Interested in software engineering, security, and system-level programming.
 ---
 
 ## 📈 GitHub Overview
+
 ---
 
 ## 📈 GitHub Overview
 
-<table style="width: 100%;">
+<table align="center" style="width: 100%; max-width: 1000px; margin: 0 auto;">
   <tr>
     <td style="width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=dzobamain&theme=nord&show_icons=true&hide_rank=true" style="width: 100%; max-height: 300px; object-fit: contain;">
@@ -43,7 +44,6 @@ Interested in software engineering, security, and system-level programming.
     </td>
   </tr>
 </table>
-
 
 ---
 
