@@ -19,9 +19,9 @@ Interested in software engineering, security, and system-level programming.
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 </div>
 
+<!--
 ---
 
-<!--
 ## 🧩 Projects
 
 - **Sursy** — a system for verifying the authenticity of news and sources *(in development)*  
