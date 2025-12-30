@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:555555,100:5296D6&height=80&section=header&text=building%20reliable%20software&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:555555,100:5296D6&height=50&section=header&text=building%20reliable%20software&fontSize=30&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ I am a software developer focused on **reliability**, **security**, and **low-le
 
 ### ⚙️ Technologies (used)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,cs,dotnet,python,qt,html,css,js,react"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,cs,dotnet,python,qt,html,css,js,react,sqlite"/>
 </p>
 
 ---
@@ -38,3 +38,4 @@ I am a software developer focused on **reliability**, **security**, and **low-le
 </p>
 
 ---
+
